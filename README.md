@@ -1,3 +1,3 @@
 # MySamy
 
-![screenshot](https://github.com/greg-woo/MySany/blob/master/Capture.png)
+![screenshot](https://github.com/greg-woo/MySamy/blob/master/Capture.PNG)
